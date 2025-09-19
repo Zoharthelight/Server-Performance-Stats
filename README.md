@@ -23,4 +23,4 @@ cd server-performance-stats
 chmod +x server-stats.sh
 
 https://roadmap.sh/projects/server-stats
-Check wiki for full Documentation
+Check wiki for full Documentation - https://github.com/Zoharthelight/Server-Performance-Stats/wiki
