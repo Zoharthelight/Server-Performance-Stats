@@ -22,4 +22,4 @@ git clone https://github.com/<your-username>/server-performance-stats.git
 cd server-performance-stats
 chmod +x server-stats.sh
 
-Project Url - https://github.com/Zoharthelight/Server-Performance-Stats
+https://roadmap.sh/projects/server-stats
